@@ -22,8 +22,8 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/priyanshuchawda/forked-weather_prediction_model.git
-cd forked-weather_prediction_model/weather_prediction_model
+git clone https://github.com/AntiDynamic/weather_prediction_model.git
+cd weather_prediction_model
 ```
 
 ### 2. Create and Activate a Virtual Environment
